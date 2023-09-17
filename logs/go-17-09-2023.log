@@ -1,0 +1,35 @@
+[ERROR]: 17-09-2023 08:27:00 - In Server: Error 1146: Table 'laravel.customer' doesn't exist
+[ERROR]: 17-09-2023 08:27:00 - In Server: Error 1146: Table 'laravel.customer' doesn't exist
+[ERROR]: 17-09-2023 08:28:41 - In Server: Error 1146: Table 'laravel.nationality' doesn't exist
+[ERROR]: 17-09-2023 08:28:41 - In Server: Error 1146: Table 'laravel.nationality' doesn't exist
+[INFO]: 17-09-2023 08:30:21 - get all customer
+[INFO]: 17-09-2023 11:26:02 - get all customer
+[INFO]: 17-09-2023 13:34:48 - get all customer
+[ERROR]: 17-09-2023 13:36:46 - In Server: Error 1052: Column 'cst_id' in where clause is ambiguous
+[ERROR]: 17-09-2023 13:36:46 - In Server: Error 1052: Column 'cst_id' in where clause is ambiguous
+[INFO]: 17-09-2023 13:36:54 - get all customer
+[INFO]: 17-09-2023 13:38:29 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"saripudin","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"Indonesia","nama":"marwan","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 13:38:45 - get all customer
+[INFO]: 17-09-2023 13:38:53 - get all customer
+[INFO]: 17-09-2023 13:39:14 - get all customer
+[INFO]: 17-09-2023 13:39:33 - get all customer
+[INFO]: 17-09-2023 13:39:35 - get all customer
+[INFO]: 17-09-2023 13:39:36 - get all customer
+[INFO]: 17-09-2023 13:39:49 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"sipuden","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"Indonesia","nama":"marwoto","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 13:39:56 - get all customer
+[INFO]: 17-09-2023 13:41:02 - get all customer
+[INFO]: 17-09-2023 13:41:38 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"sipuden","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"Indonesia","nama":"marwoto","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 13:41:47 - get all customer
+[INFO]: 17-09-2023 13:43:36 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"saripudin","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"Indonesia","nama":"marwan","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 13:45:16 - get all customer
+[INFO]: 17-09-2023 13:47:44 - get all customer
+[INFO]: 17-09-2023 13:52:13 - get all customer
+[INFO]: 17-09-2023 14:05:39 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"sipuden","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"indonesia","nama":"marwoto","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 14:05:42 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"markonah","tanggal_lahir":"2023-09-16T00:00:00+07:00"},{"hubungan":"","nama":"markonayy","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"indonesia","nama":"marwan","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 14:05:47 - get all customer
+[INFO]: 17-09-2023 14:08:41 - get all customer
+[INFO]: 17-09-2023 14:10:52 - get all customer
+[INFO]: 17-09-2023 14:15:22 - get one user: {"email":"","keluarga":[{"hubungan":"","nama":"markonah","tanggal_lahir":"2023-09-16T00:00:00+07:00"},{"hubungan":"","nama":"markonayy","tanggal_lahir":"2023-09-16T00:00:00+07:00"}],"kewarganegaraan":"indonesia","nama":"marwan","tanggal_lahir":"2023-09-16 00:00:00 +0700 WIB","telepon":""}
+[INFO]: 17-09-2023 14:15:26 - get all customer
+[INFO]: 17-09-2023 14:15:46 - get all customer
+[INFO]: 17-09-2023 14:25:38 - get all customer
